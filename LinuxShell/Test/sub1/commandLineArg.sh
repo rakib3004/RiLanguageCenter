@@ -1,0 +1,5 @@
+echo "My System Name is: $0"
+echo "Command Line Argument 1 is: $1"
+echo "Command Line Argument 2 is: $2" 
+echo "Command Line Argument 3 is: $3" 
+echo "There are $# arguments they are: $@" 
